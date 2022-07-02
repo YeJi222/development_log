@@ -1,4 +1,4 @@
-# [Advanced Flutter 캠프 2주차 - navigator bottom bar 보완, database 관리(구성 수정), 추가 페이지 구현 등]
+# [Advanced Flutter 캠프 2주차 - navigator bottom bar 보완, database 관리(구성 수정), 추가 페이지 구현, 기능 추가 등]
 ## (2022.06.27[월] ~ 2022.07.02[토] 18주차)
 
 캠프 1주차에 구현한 navigator bottom bar에 문제점가 있음을 발견하고, 보완하여 해결할 수 있었다. 
